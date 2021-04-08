@@ -1,0 +1,134 @@
+body {
+  background: #92cbfd;
+}
+.p1 {
+  color: #000000;
+}
+.next {
+  display: block;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  background: #7a2bd0;
+  color: #fff;
+  text-decoration: none;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+}
+.textS {
+  font-weight: 400;
+  text-align: center;
+  padding: 0px 0;
+  font-size: 40px;
+}
+.linea {
+  background: #7a2bd0;
+  height: 5px;
+  width: 100%;
+  display: block;
+}
+.t1a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t2a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t3a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t4a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t5a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t6a {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t1b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t2b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t3b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t4b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t5b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.t6b {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.lahis {
+  text-align: center;
+  font-size: 25px;
+}
+.his {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
+.nov {
+  text-decoration: none;
+  color: black;
+  width: 40;
+  height: 40;
+  border: solid black;
+}
